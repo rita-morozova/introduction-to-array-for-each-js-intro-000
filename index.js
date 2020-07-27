@@ -3,4 +3,6 @@ function doToElementsInArray(){
 }
 
 
-// Add your changeCompletely() function here:
+function changeCompletely(){
+  
+}
