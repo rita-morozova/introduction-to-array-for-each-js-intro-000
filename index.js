@@ -1,5 +1,5 @@
-function doToElementsInArray(){
-  
+function doToElementsInArray(callback){
+  array.forEach(callback);
 }
 
 
